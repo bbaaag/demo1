@@ -5,6 +5,4 @@ echo  phpinfo();
 
 exit();
 
-再次添加
-
 
