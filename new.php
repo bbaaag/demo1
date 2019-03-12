@@ -10,3 +10,6 @@ echo  "this is a php";exit();
   
   
   21312
+
+
+bai. 
